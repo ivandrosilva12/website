@@ -1,0 +1,17 @@
+{
+    "languages" : "LANGUES",
+    "categories" : "CATÉGORIES",
+    "first-link": "Premier Lien",
+    "second-link": "Deuxième Lien",
+    "third-link": "Troisième Lien",
+    "fourth-link": "Quatrième Lien",
+    "text": "Usine d'air réalisée avec une précision supplémentaire par M. Alexander Navarro",
+    "header-about": "À propos de",
+    "header-events": "Événements",
+    "header-contact-us": "Nous contacter",
+    "header-services": "Services",
+    "header-products": "Produits",
+    "header-news": "Nouvelles",
+    "header-restricted-area": "Zone restreinte",
+    "header-company": "Entrepise"
+}

@@ -1,0 +1,10 @@
+{
+	"locales": ["pt-AO", "en-US", "fr"],
+	"defaultLocale": "pt-AO",
+	"pages": {
+		"*": ["common"],
+		"/about": ["about"],
+		"/contact-us": ["contact-us"],
+		"/events": ["events"]
+	}
+}

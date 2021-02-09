@@ -1,0 +1,17 @@
+{
+    "languages" : "LANGUAGES",
+    "categories" : "CATEGORIES",
+    "first-link": "First Link",
+    "second-link": "Second Link",
+    "third-link": "Third Link",
+    "fourth-link": "Fourth Link",
+    "text": "Air plant done with an extra precision by Mr. Alexander Navarro",
+    "header-about": "About",
+    "header-events": "Events",
+    "header-contact-us": "Contact Us",
+    "header-services": "Services",
+    "header-products": "Products",
+    "header-news": "News",
+    "header-restricted-area": "Restricted Area",
+    "header-company": "Company"
+}

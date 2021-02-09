@@ -1,0 +1,17 @@
+{
+    "languages" : "LINGUAS",
+    "categories" : "CATEGORIAS",
+    "first-link": "Primeiro Link",
+    "second-link": "Segundo Link",
+    "third-link": "Terceiro Link",
+    "fourth-link": "Quarto Link",
+    "text": "Planta de ar feita com uma precisão extra pelo Sr. Alexander Navarro",
+    "header-about": "Sobre",
+    "header-events": "Eventos",
+    "header-contact-us": "Contactos",
+    "header-services": "Servicos",
+    "header-products": "Produtos",
+    "header-news": "Noticias",
+    "header-restricted-area": "Area Restricta",
+    "header-company": "Empresa"
+}
